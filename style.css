@@ -1,0 +1,34 @@
+
+h1{
+    background-color: rgb(240, 240, 220);
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+.app{
+/* background-color: rgb(250, 232, 208); */
+background: linear-gradient(rgb(237, 213, 152), rgb(240, 217, 187));
+height: 300px;
+width: 50%;
+margin: auto;
+}
+input{
+    padding: 5px;
+    outline: none;
+    border-radius: 2px;
+    margin: 8px ;
+}
+ul {
+    padding: 20px;
+}
+button{
+    margin: 4px;
+    background-color: rgb(147, 145, 90);
+    outline: none;
+    border: none;
+    padding: 3px;
+}
+.task {
+    background-color: rgb(189, 140, 16);
+    padding: 3px;
+}
